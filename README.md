@@ -24,4 +24,4 @@ I have over 20 years of experience in **software architecture** and a deep passi
 
 ### 📬 Contact & Links
 
- **[LinkedIn](https://www.linkedin.com/in/ronalddrogers/)** |  **[YouTube Channel](https://www.youtube.com/0)** |  **[GitHub](https://github.com/ronald-d-rogers)**
+ **[LinkedIn](https://www.linkedin.com/in/ronalddrogers/)** |  **[YouTube Channel](https://www.youtube.com/@MLSuper9000)** |  **[GitHub](https://github.com/ronald-d-rogers)**
