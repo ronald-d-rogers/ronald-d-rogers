@@ -4,9 +4,15 @@ I have over 20 years of experience in **software architecture** and a deep passi
 
 ---
 
+### 🔭 Current Focus & Innovation
+* **Advanced Reasoning Models:** Implementing **DeepSeek R1** for complex domain-specific tasks (Tax/Legal) using RLVR and GRPO.
+* **Knowledge Sharing:** Delivering deep-dive ML tutorials on my YouTube channel, **[ML Super 9000](https://www.youtube.com/@MLSuper9000)**.
+
+---
+
 ### 🛠️ Key Technical Skills
 
-* **AI & Machine Learning:** LLMs, Generative AI, RAG, Systems Design, NLP
+* **AI & Machine Learning:** LLMs, Generative AI, RAG, **DeepSeek R1**, Systems Design, NLP
 * **Cloud:** AWS
 * **Backend:** Python, C#, Java, GraphQL, Microservices
 * **Frontend:** React, Vue, TypeScript
@@ -24,4 +30,4 @@ I have over 20 years of experience in **software architecture** and a deep passi
 
 ### 📬 Contact & Links
 
- **[LinkedIn](https://www.linkedin.com/in/ronalddrogers/)** |  **[YouTube Channel](https://www.youtube.com/@MLSuper9000)** |  **[GitHub](https://github.com/ronald-d-rogers)**
+ [LinkedIn](https://www.linkedin.com/in/ronalddrogers/) | [YouTube](https://www.youtube.com/@MLSuper9000) | [GitHub](https://github.com/ronald-d-rogers)
