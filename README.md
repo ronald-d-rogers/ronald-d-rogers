@@ -40,7 +40,7 @@ My work focuses on taking advanced AI from research to production, with an empha
 * **Tax Reasoning Models:** Trained a Qwen3-14B specialist using reward-engineered problem generation, SFT, and verifiable RL, improving an internal benchmark from approximately 1.0 to 3.0.
 * **Law GPT:** Trained Llama and Mistral models using multi-node DeepSpeed ZeRO-3 and QLoRA, outperforming GPT-4 on selected legal tasks.
 * **Legal Reward Bench:** Developed expert-evaluation benchmarks and reward models for legal reasoning and preference modeling.
-* **TaxWorld:** Architecting a continuous RL environment combining verified execution graphs, formal reasoning, and reinforcement learning.
+* **TaxWorld:** Architected a continuous RL environment combining verified execution graphs, formal reasoning, and reinforcement learning.
 * **Config Tuning Framework:** Research project exploring the relationship between full-rank and LoRA fine-tuning.
 * **ML Super 9000:** YouTube channel covering machine learning concepts from linear regression through transformers.
 * **Lean 4 / Primes:** Contributed a high-performance Lean 4 implementation to the Primes benchmark, achieving a 1.60× speedup on M4 Max and 1.71× in independent x86-64 validation.
