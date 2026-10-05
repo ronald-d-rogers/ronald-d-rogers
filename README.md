@@ -22,10 +22,11 @@ My work focuses on taking advanced AI from research to production, with an empha
 
 ---
 
-### 🛠️ Key Technical Skills
+### 🛠️ Technical Expertise
 
 * **LLM & AI:** LLM Training, SFT, DPO, RLVR, GRPO, Reward Modeling, Synthetic Data, Reasoning Models, RAG
-* **AI Systems:** Model Routing, AI Orchestration, Neuro-Symbolic AI, Knowledge Graphs, Formal Methods
+* **Formal & Verifiable AI:** Lean 4, SMT-LIB, Formal Methods, Neuro-Symbolic AI, Knowledge Graphs, Verifiable AI
+* **AI Systems:** Model Routing, AI Orchestration, Specialized/Frontier Model Systems
 * **Distributed ML:** DeepSpeed ZeRO-3, QLoRA, Multi-node Training, A100/H100
 * **Retrieval:** Dense Retrieval, GNNs, Weaviate, BM25, HNSW, Reranking
 * **Programming:** Python, C#, Java, TypeScript, React
