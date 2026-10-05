@@ -1,11 +1,15 @@
-### Hello 👋 I'm Ronald D. Rogers, a Principal Machine Learning Engineer & Architect.
+# 👋 Hello, I'm Ronald D. Rogers
 
-I have over 20 years of experience in **software engineering, systems architecture, and large-scale production systems**, with a focus on **Machine Learning and AI**.
+I'm a **Principal Machine Learning Engineer & Architect** with 20+ years of experience in software engineering, systems architecture, and large-scale production systems.
 
-At Bloomberg, I design and build end-to-end AI systems spanning **LLM training and post-training, verifiable reinforcement learning (RLVR/GRPO), reward modeling, reasoning systems, neuro-symbolic AI, distributed training, and model routing**.
+At Bloomberg, I design and build end-to-end AI systems spanning:
+* LLM training and post-training
+* Verifiable reinforcement learning (RLVR/GRPO)
+* Reward modeling & reasoning systems
+* Neuro-symbolic AI & distributed training
+* Model routing
 
-My work focuses on taking advanced AI from **research and experimentation through architecture, engineering, and production**, with an emphasis on improving reasoning capability, verifiability, efficiency, and cost.
-
+My work focuses on taking advanced AI from research to production, with an emphasis on **reasoning, verifiability, efficiency, and cost**.
 ---
 
 ### 🔭 Current Focus & Innovation
