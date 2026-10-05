@@ -43,7 +43,7 @@ My work focuses on taking advanced AI from research to production, with an empha
 * **TaxWorld:** Architecting a continuous RL environment combining verified execution graphs, formal reasoning, and reinforcement learning.
 * **Config Tuning Framework:** Research project exploring the relationship between full-rank and LoRA fine-tuning.
 * **ML Super 9000:** YouTube channel covering machine learning concepts from linear regression through transformers.
-* **Lean 4 / Primes:** Contributed a high-performance Lean 4 implementation to the Primes benchmark, achieving a 1.60× speedup on M4 Max and 1.71× in independent x86-64 validation[cite: 1].
+* **Lean 4 / Primes:** Contributed a high-performance Lean 4 implementation to the Primes benchmark, achieving a 1.60× speedup on M4 Max and 1.71× in independent x86-64 validation.
 
 ---
 
